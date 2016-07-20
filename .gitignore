@@ -1,0 +1,6 @@
+*.dll
+*.exe
+
+
+Osnove/Osnove/bin/
+Osnove/Osnove.Tests/bin/
